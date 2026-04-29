@@ -8,7 +8,7 @@ The digital home of **The Synthekai Collective**. A living story exploring the i
 We believe in the potential of technology to foster genuine human connection rather than replace it. Through the synthesis of audio, visual media, and narrative exploration, Synthekai acts as an incubator for creative projects that challenge our perspective on technology, business ethics, and artistic expression.
 
 ## Portfolio & Projects
-- **Music & Audio:** [Listen on Bandcamp](https://synthekai.bandcamp.com/)
+- **Music & Audio:** [New Music on every platform - Listen Mycelium Bloom on Bandcamp](https://synthekai.bandcamp.com/)
 - **Visual & AI Transmedia:** [View Projects on HUGE](https://www.huge.com/dablerfrost)
 - **Latest Updates:** [Follow on YouTube](https://www.youtube.com/@SynthekaiCollective/shorts)
 
@@ -16,7 +16,7 @@ We believe in the potential of technology to foster genuine human connection rat
 We are always looking for collaborators—artists, synthographers, and storytellers who are passionate about the future of creative AI and ethical business ecosystems.
 
 - [Instagram](https://www.instagram.com/dablerfrost)
-- [Collaborations & Inquiries](mailto:your-email@example.com)
+- [Collaborations & Inquiries](mailto:SynthekaiCollective@gmail.com)
 
 ---
 *Synthekai Collective © 2026. Built with purpose and pixels.*
